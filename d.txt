@@ -1,1 +1,2 @@
 new line for featxy
+Sample text in the file
